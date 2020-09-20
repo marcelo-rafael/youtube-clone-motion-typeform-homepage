@@ -3,9 +3,9 @@ UI Clone (Motion) - Typeform Homepage
 </h1>
 
 <p align="center">Typeform Homepage motion clone for study purposes.</p>
-<p align="center">Deployed <a href="">here</a>.</p>
+<p align="center">Deployed <a href="https://youtube-clone-motion-typeform-homepage.netlify.app/">here</a>.</p>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d40865df-12b5-4ead-a9e0-9ce8e9da9b3f/deploy-status)](https://app.netlify.com/sites/youtube-clone-motion-typeform-homepage/deploys)
 
 <hr>
 
