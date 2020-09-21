@@ -2,10 +2,6 @@
 UI Clone (Motion) - Typeform Homepage
 </h1>
 
-<p align="center">Typeform Homepage motion clone for study purposes.</p>
-
-
-
 <hr>
 
 <p align="center">
