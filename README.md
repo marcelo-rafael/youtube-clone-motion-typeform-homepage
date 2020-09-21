@@ -11,37 +11,39 @@ UI Clone (Motion) - Typeform Homepage
 </p>
 
 <h4 align="center"> 
-	🚧  Ui-Clone 🚀 progress 🚀 🚧
+	🚧  Ui-Clone 🚀 em andamento 🚀 🚧
 </h4>
 <p align="center">Deployed <a href="https://youtube-clone-motion-typeform-homepage.netlify.app/">here</a>.</p>
 
 <p align="center">
- <a href="#about">About</a> •
- <a href="#how-it-works">How it works</a> • 
- <a href="#tech-stack">Tech Stack</a> • 
- <a href="#author">Author</a> • 
- <a href="#user-content-license">License</a>
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
 </p>
 
-## About
+## 💻 Sobre o projeto
 
-Animated Typeform Homepage with Framer Motion (ReactJS) | UI clone for study purposes.
+Homepage Animada do Typeform com Framer Motion (ReactJS) | UI Clone para fins de estudo.
 
-Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=O2xM5H7Ooj4&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11).
+
+Projeto desenvolvido durante a **UI Clone** 
+oferecido por [Rocketseat](https://www.youtube.com/watch?v=O2xM5H7Ooj4&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11).
 
 ---
 
-## How it works
+## 🚀 Como executar o projeto
 
-This project is done in one part:
+Este projeto é feito em uma parte:
 
 1. Frontend (youtube-clone-typeform-homepage folder)
 
-### Pré-requisites
+### Pré-requisitos
 
-Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🧭 Rodando a aplicação web
 
