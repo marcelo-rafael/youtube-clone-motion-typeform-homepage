@@ -43,51 +43,51 @@ Before you begin, you will need to have the following tools installed on your ma
 [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
-#### 🧭 Running the web application
+#### 🧭 Rodando a aplicação web
 
 ```bash
 
-# Clone this repository
+# Clone este repositório
 $ git clone https://github.com/marcelo-rafael/youtube-clone-motion-typeform-homepage/
 
-# Access the project folder in your terminal
-$ cd primeiro-projeto-com-react
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd youtube-clone-typeform-homepage
 
-# Install the dependencies
+# Instale as dependências
 $ yarn install or npm install
 
-# Run the application in development mode
+# Execute a aplicação em modo de desenvolvimento
 $ yarn start or npm run start
 
-# The application will open on the port:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
 
 ---
 
-## Tech Stack
+## 🛠 Tecnologias
 
-The following tools were used in the construction of the project:
+As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[framer/motion](https://github.com/framer/motion)**
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
 
-> See the file  [package.json](https://github.com/marcelo-rafael/primeiro-projeto-com-react/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/marcelo-rafael/youtube-clone-motion-typeform-homepage/blob/master/package.json)
 
 ---
 
-## 💪 How to contribute
+## 💪 Como contribuir para o projeto
 
-1. Fork the project.
-2. Create a new branch with your changes: `git checkout -b my-feature`
-3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
-4. Submit your changes: `git push origin my-feature`
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
 
 ---
 
-## Author
+## Autor
 
 <img  border-radius="50px" src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
 
@@ -96,15 +96,15 @@ The following tools were used in the construction of the project:
 
 ---
 
-## License
+## 📝 Licença
 
-This project is under the license [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
 
-Made with ❤️ by Marcelo Rafael Gonçalves 👋🏽 [Get in Touch!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
+Feito com ❤️ por Marcelo Rafael Gonçalves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-rafael-gonçalves/)
 
 ---
 
-##  Versions of README
+##  Versões do README
 
 [Português 🇧🇷](./README.md)  |  [English 🇺🇸](./README-en.md)
