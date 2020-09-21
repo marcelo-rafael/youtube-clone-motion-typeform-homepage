@@ -3,23 +3,37 @@ UI Clone (Motion) - Typeform Homepage
 </h1>
 
 <p align="center">Typeform Homepage motion clone for study purposes.</p>
-<p align="center">Deployed <a href="https://youtube-clone-motion-typeform-homepage.netlify.app/">here</a>.</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d40865df-12b5-4ead-a9e0-9ce8e9da9b3f/deploy-status)](https://app.netlify.com/sites/youtube-clone-motion-typeform-homepage/deploys)
+
 
 <hr>
 
----
-
-## Layout
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Clone Typeform" title="#Github_Explorer" src="./src/assets/Home.svg" width="400px">
-
-  <img alt="Github Explorer" title="#Github_Explorer" src="./src/assets/User.svg" width="400px">
+<p align="center">
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   
 </p>
+
+<h4 align="center"> 
+	🚧  Ui-Clone 🚀 progress 🚀 🚧
+</h4>
+<p align="center">Deployed <a href="https://youtube-clone-motion-typeform-homepage.netlify.app/">here</a>.</p>
+
+<p align="center">
+ <a href="#about">About</a> •
+ <a href="#how-it-works">How it works</a> • 
+ <a href="#tech-stack">Tech Stack</a> • 
+ <a href="#author">Author</a> • 
+ <a href="#user-content-license">License</a>
+</p>
+
+## About
+
+Typeform Homepage motion clone for study purposes.
+
+In this step we will start learning ReactJS, creating the first project already using TypeScript.
+
+Project developed during the **Bootcamp GoStack** offered by [Rocketseat](https://www.youtube.com/watch?v=O2xM5H7Ooj4&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11).
 
 ---
 
