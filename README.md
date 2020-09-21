@@ -25,7 +25,6 @@ UI Clone (Motion) - Typeform Homepage
 
 ## About
 
-
 Animated Typeform Homepage with Framer Motion (ReactJS) | UI clone for study purposes.
 
 Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=O2xM5H7Ooj4&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11).
